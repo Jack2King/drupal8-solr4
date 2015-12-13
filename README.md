@@ -1,0 +1,3 @@
+# drupal8-solr4
+Linux下Drupal8中solr配置文档
+d7solr是配置好中文分词的一个实例
